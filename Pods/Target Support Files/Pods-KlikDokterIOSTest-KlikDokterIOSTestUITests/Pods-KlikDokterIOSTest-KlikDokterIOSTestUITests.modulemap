@@ -1,0 +1,6 @@
+framework module Pods_KlikDokterIOSTest_KlikDokterIOSTestUITests {
+  umbrella header "Pods-KlikDokterIOSTest-KlikDokterIOSTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

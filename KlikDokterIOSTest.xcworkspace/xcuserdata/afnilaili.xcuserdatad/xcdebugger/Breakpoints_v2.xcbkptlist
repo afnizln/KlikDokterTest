@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E865CAA-9945-4695-9E4C-9FF6BB407F78"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02EF5C6C-4365-4B55-B18E-E858B362CB22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KlikDokterIOSTest/Screen/Main/Interactor/MainInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "loadGreeting(date:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02EF5C6C-4365-4B55-B18E-E858B362CB22 - 40251c09895c9deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KlikDokterIOSTest.MainInteractor.loadGreeting(date: Foundation.Date) -&gt; ()"
+                  moduleName = "KlikDokterIOSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afnilaili/Documents/Projects/KlikDokterIOSTest/KlikDokterIOSTest/Screen/Main/Interactor/MainInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "02EF5C6C-4365-4B55-B18E-E858B362CB22 - 40251c09895c9dc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KlikDokterIOSTest.MainInteractor.loadGreeting(date: Foundation.Date) -&gt; ()"
+                  moduleName = "KlikDokterIOSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afnilaili/Documents/Projects/KlikDokterIOSTest/KlikDokterIOSTest/Screen/Main/Interactor/MainInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "777">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4AA695A-AE5A-4D18-BB39-BD4D76ED185E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KlikDokterIOSTest/Screen/Main/Interactor/MainInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "loadGreeting(date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
